@@ -1,3 +1,9 @@
+// Author       :   Alex Kourkoumelis
+// Date         :   3/18/2017
+// Title        :   SwingColorChanger
+// Description  :   Alters the RGB values of each pixel in a .jpg
+
+
 import javax.swing.*;
 import java.awt.*;
 import java.io.*;
