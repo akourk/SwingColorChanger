@@ -1,5 +1,5 @@
 // Author       :   Alex Kourkoumelis
-// Date         :   3/18/2019
+// Date         :   3/18/2018
 // Title        :   SwingColorChanger
 // Description  :   Alters the RGB values of each pixel in a .jpg
 
